@@ -2,7 +2,7 @@
 let awsConfig = {
     "region": "ap-south-1",
     "endpoint": "http://dynamodb.ap-south-1.amazonaws.com",
-    "accessKeyId": "AKIAI2T4DJFZRIASSK7A", "secretAccessKey": "8zmuWVhBMqJbgwkuX7CMtUg/KgMrEjOyKtGsr8Ec"
+    "accessKeyId": 'YOUR ACCES KEY', "secretAccessKey": "YOUR SECRET KEY"
 };
 AWS.config.update(awsConfig);
 
